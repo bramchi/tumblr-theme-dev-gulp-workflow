@@ -16,7 +16,7 @@ Oh and I really like a [Neat](http://neat.bourbon.io) [Bourbon](http://bourbon.i
 
 ### Structure
 
-The assets for this theme are compiled using the [Gulp](http://gulpjs.com/) and a bunch of other gulp plugins. Gulp compiles the files in the `/src` directory into a `/dist` folder that contains everything for the theme. This `/dist` directory is not part of the source, you need to compile it yourself.
+The assets for this theme are compiled using [Gulp](http://gulpjs.com/) and a bunch of other Gulp plugins. Gulp compiles the files in the `/src` directory into a `/dist` folder that contains everything for the theme. This `/dist` directory is not part of the source, you need to compile it yourself.
 
 ### Installation
 
