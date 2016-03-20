@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository contains the source code and description of my frontend development workflow for creating custom Tumblr themes. Since  Tumblr theme development has to be done in-browser, my workflow is a little different than with other webdevelopment projects. After learning a lot from doing some projects, I now have a pretty decent setup that I would like to share with you.
+This repository contains the source code and description of my frontend development workflow for creating custom Tumblr themes. Since  Tumblr theme development has to be done in-browser, my workflow is a little different than with other webdevelopment projects. After learning a lot from building many custom Tumblr themes, I now have a pretty decent setup that I would like to share with you.
 
 For HTML editing, I use Tumblr's theme HTML editor at https://www.tumblr.com/customize/tumblrname. Which is actually pretty good. I keep the Tumblr itself open in another browser tab. Once in a while I copy changes to the HTML back to the local tumblr-template.html file to be able to commit to git, accompanied by the other changes. The supplied HTML template in this repo is from the fine [Tumblrplate](https://github.com/justalever/tumbleplate). This HTML template is also part of the build and gets uploaded too. This way the assets always are accompanied by the HTML as means of documentation.
 
