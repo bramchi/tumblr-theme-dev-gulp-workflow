@@ -29,7 +29,7 @@ The important gulp tasks are:
 
 ### Compilation
 
-The assets for this theme are compiled using [Gulp](http://gulpjs.com/) and a bunch of other Gulp plugins. Gulp compiles the files in the `/src` directory into a `/dist` folder that contains everything for the theme. This `/dist` directory is not part of the source, you need to compile it yourself.
+The assets for this theme are compiled using [Gulp](http://gulpjs.com/) and a bunch of other Gulp plugins. Gulp compiles the files in the `/src` directory into a `/dist` folder that contains everything for the theme. The `/dist` directory is not part of this source, you need to compile it yourself.
 
 ### FTP credentials for your development server
 
