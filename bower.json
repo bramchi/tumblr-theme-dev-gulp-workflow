@@ -1,0 +1,17 @@
+{
+  "name": "Legendary Backstory Tumblr",
+  "version": "1.0.0",
+  "dependencies": {
+    "normalize-scss":"*",
+    "bourbon": "*",
+    "bitters" : "*",
+    "neat": "*"
+  },
+  "authors": [
+    "Bram Perry <info@bramperry.nl>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}

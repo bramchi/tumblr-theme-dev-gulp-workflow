@@ -1,0 +1,29 @@
+{
+  "name": "legendary-backstory-tumblr-theme",
+  "version": "1.0.0",
+  "description": "A custom Tumblr theme for the Legendary Backstory Tumblr at legendary.tumblr.com",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/bramchi/legendary.tumblr.com"
+  },
+  "author": "Bram Perry <info@bramperry.nl>",
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clean": "*",
+    "gulp-clean-css": "*",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^6.0.0",
+    "gulp-livereload": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "lodash": "^4.6.1",
+    "run-sequence": "^1.1.5",
+    "vinyl-ftp": "*"
+  },
+  "license": "MIT"
+}

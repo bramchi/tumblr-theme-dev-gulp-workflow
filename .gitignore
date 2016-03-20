@@ -1,0 +1,9 @@
+# hide sensitive ftp login info
+.env
+
+# hide compiled files
+dist
+
+# hide node & bower stuff
+node_modules
+bower_components

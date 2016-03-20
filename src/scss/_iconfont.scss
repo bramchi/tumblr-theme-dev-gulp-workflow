@@ -1,0 +1,38 @@
+@font-face {
+	font-family: "icons";
+	src: url('fonts/icons.woff') format('woff');
+}
+$font-icons : "icons";
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	&:before {
+		font-size: 100%;
+	}
+}
+
+$icon-search : "\";
+.icon-search:before {
+	content: $icon-search;
+}
+
+
+/* Dynamic variables */
+$icon-search : "\";
+
+
+
+@mixin iconfont() {
+	font-family: 'icons';
+	font-size: 70%;
+}
